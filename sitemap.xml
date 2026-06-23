@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://ccaag.github.io/stunning-broccoli/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://ccaag.github.io/stunning-broccoli/</loc>
+</url>
+<url>
+<loc>https://ccaag.github.io/stunning-broccoli/agreement.html</loc>
+<lastmod>2026-06-21T23:21:03-07:00</lastmod>
+</url>
+<url>
+<loc>https://ccaag.github.io/stunning-broccoli/drop-off-booth-package.html</loc>
+<lastmod>2026-06-21T21:57:40-07:00</lastmod>
+<image:image>
+<image:loc>https://ccaag.github.io/stunning-broccoli/media/posts/1/MPB-Dropoff-Booth-image-1583x2048.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ccaag.github.io/stunning-broccoli/packages-2.html</loc>
+<lastmod>2026-06-21T23:20:49-07:00</lastmod>
+<image:image>
+<image:loc>https://ccaag.github.io/stunning-broccoli/media/posts/3/MPB-Pricing-Guide-1-1583x2048.png</image:loc>
+<image:title><![CDATA[Pricing Guide]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://ccaag.github.io/stunning-broccoli/packages-3.html</loc>
+<lastmod>2026-06-21T23:20:17-07:00</lastmod>
+<image:image>
+<image:loc>https://ccaag.github.io/stunning-broccoli/media/posts/4/MPB-Dropoff-Booth-image-1583x2048.png</image:loc>
+<image:title><![CDATA[Packages]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://ccaag.github.io/stunning-broccoli/media/posts/4/MPB-Pricing-Guide-1-1583x2048.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

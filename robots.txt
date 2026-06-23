@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://ccaag.github.io/stunning-broccoli/sitemap.xml
